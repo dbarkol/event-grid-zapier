@@ -6,7 +6,7 @@
         "eventTime": "'`date +%Y-%m-%dT%H:%M:%S%z`'",
         "data":{
             "artist": "Led Zeppelin",
-            "model": "What is and What Should Never Be"
+            "song": "What is and What Should Never Be"
         },
         "dataVersion": "1.0"
     }
